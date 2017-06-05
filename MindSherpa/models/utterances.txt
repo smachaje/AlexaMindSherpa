@@ -1,0 +1,44 @@
+UnrecognizedIntent ThisIsPurposlyNonSense
+UnrecognizedIntent ThisIsPurposlyNonSense ThisIsPurposlyNonSense
+UnrecognizedIntent ThisIsPurposlyNonSense ThisIsPurposlyNonSense ThisIsPurposlyNonSense
+UnrecognizedIntent ThisIsPurposlyNonSense ThisIsPurposlyNonSense ThisIsPurposlyNonSense ThisIsPurposlyNonSense
+UnrecognizedIntent ThisIsPurposlyNonSense ThisIsPurposlyNonSense ThisIsPurposlyNonSense ThisIsPurposlyNonSense ThisIsPurposlyNonSense
+ResetStateIntent reset skill
+ResetStateIntent start again
+ResetStateIntent reset
+ResetStateIntent start area
+RestoreStateIntent resume skill
+RestoreStateIntent resume
+RepeatOptionsIntent repeat options
+RepeatSceneIntent repeat scene
+RepeatSceneIntent repeat
+GoBackIntent go back
+AMAZON.HelpIntent help
+AMAZON.StopIntent exit skill
+AMAZON.CancelIntent exit skill
+StepOneIntent step one
+StepTwoIntent step two
+StepThreeIntent step three
+StepFourIntent step four
+StepFiveIntent step five
+StepSixIntent step six
+LearnAboutEmpathyIntent learn about empathy
+AskQuestionsIntent ask questions
+QuizMeIntent quiz me
+NextStepIntent next step
+LearnAboutDefiningIntent learn about defining
+AskQuestionsIntent ask questions
+NextStepIntent Next step
+MoreAboutIdeationIntent More about ideation
+AskQuestionsIntent ask questions
+NextStepIntent Next step
+MoreAboutPrototypingIntent More about prototyping
+AskQuestionsIntent ask questions
+NextStepIntent Next step
+YesEightIntent Yes eight
+NoEightIntent No eight
+MaybeEightIntent Maybe eight
+NotEnoughInformationEightIntent Not enough information eight
+MoreAboutFeedbackIntent More about feedback
+AskQuestionsIntent Ask questions
+NextStepIntent Next step

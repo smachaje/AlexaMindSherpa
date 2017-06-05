@@ -1,0 +1,85 @@
+{
+  "intents": [
+    {
+      "intent": "UnrecognizedIntent"
+    },
+    {
+      "intent": "ResetStateIntent"
+    },
+    {
+      "intent": "RestoreStateIntent"
+    },
+    {
+      "intent": "RepeatOptionsIntent"
+    },
+    {
+      "intent": "RepeatSceneIntent"
+    },
+    {
+      "intent": "GoBackIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "StepOneIntent"
+    },
+    {
+      "intent": "StepTwoIntent"
+    },
+    {
+      "intent": "StepThreeIntent"
+    },
+    {
+      "intent": "StepFourIntent"
+    },
+    {
+      "intent": "StepFiveIntent"
+    },
+    {
+      "intent": "StepSixIntent"
+    },
+    {
+      "intent": "LearnAboutEmpathyIntent"
+    },
+    {
+      "intent": "AskQuestionsIntent"
+    },
+    {
+      "intent": "QuizMeIntent"
+    },
+    {
+      "intent": "NextStepIntent"
+    },
+    {
+      "intent": "LearnAboutDefiningIntent"
+    },
+    {
+      "intent": "MoreAboutIdeationIntent"
+    },
+    {
+      "intent": "MoreAboutPrototypingIntent"
+    },
+    {
+      "intent": "YesEightIntent"
+    },
+    {
+      "intent": "NoEightIntent"
+    },
+    {
+      "intent": "MaybeEightIntent"
+    },
+    {
+      "intent": "NotEnoughInformationEightIntent"
+    },
+    {
+      "intent": "MoreAboutFeedbackIntent"
+    }
+  ]
+}

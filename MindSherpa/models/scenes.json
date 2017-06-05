@@ -1,0 +1,729 @@
+[
+  {
+    "id": 0,
+    "color": "default",
+    "isHidden": false,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Welcome",
+      "text": "Welcome to the Problem Solver skill. To learn how to use this skill, say \"Help\" or select step 1-6.",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "Welcome to the Problem Solver skill. To learn how to use this skill, say \"Help\".  You may explore Design Thinking by saying \"Step 1\" or select between step 1 through 6.",
+      "prompt": "When you are ready, say \"Begin\"."
+    },
+    "options": [
+      {
+        "utterances": [
+          "step 1"
+        ],
+        "sceneId": 3
+      },
+      {
+        "utterances": [
+          "step 2"
+        ],
+        "sceneId": 5
+      },
+      {
+        "sceneId": 9,
+        "utterances": [
+          "step 3"
+        ]
+      },
+      {
+        "sceneId": 10,
+        "utterances": [
+          "step 4"
+        ]
+      },
+      {
+        "sceneId": 22,
+        "utterances": [
+          "step 5"
+        ]
+      },
+      {
+        "sceneId": 23,
+        "utterances": [
+          "step 6"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "color": "yellow",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": true,
+    "card": {
+      "title": "Step 3. Ideate",
+      "text": "",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "When you've identified the problem that needs innovation, you will ideate, or brainstorm what are the moving parts that are important.  There are many ways to ideate, let's proceed to phase 3.  Say \"start area\" and then \"step 3\".",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 2,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": true,
+    "card": {
+      "title": "More on ideation",
+      "text": "",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You ideate by combining your conscious and unconscious mind, and rational thoughts with imagination. For example, in a brainstorm you leverage the synergy of the group to reach new ideas by building on others’ ideas. Adding constraints, surrounding yourself with inspiring related materials, and embracing misunderstanding all allow you to reach further than you could by simply thinking about a problem.\nAnother ideation technique is building – that is, prototyping itself can be an ideation technique. In physically making something you come to points where decisions need to be made; this encourages new ideas to come forward.\nThere are other ideation techniques such as bodystorming, mindmapping, and sketching. But one theme throughout all of them is deferring judgment – that is, separating the generation of ideas from the evaluation of ideas. In doing so, you give your imagination and creativity\na voice, while placating your rational side in knowing that your will get to the examination of merits later.",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 3,
+    "color": "green",
+    "isHidden": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Phase 1. Empathy.",
+      "text": "How and why to empathize?",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "The first step to solve wicked problems or to innovate solutions is to get to know your customers and to care about their lives.  It is important to understand the way they do things and why, their physical and emotional needs, how they think about world, and what is meaningful to them.  For example, if you're concerned about your children playing games too much, why not observe them playing or play with them.  Learn why they play, how it makes them feel, what are the alternatives from their perspective. You can always say \"exit  skill\" and I will bookmark your progress or say \"start again\".",
+      "prompt": ""
+    },
+    "options": [
+      {
+        "sceneId": 8,
+        "utterances": [
+          "learn about empathy"
+        ]
+      },
+      {
+        "sceneId": 4,
+        "utterances": [
+          "ask questions"
+        ]
+      },
+      {
+        "sceneId": 12,
+        "utterances": [
+          "quiz me"
+        ]
+      },
+      {
+        "sceneId": 17,
+        "utterances": [
+          "next step"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "color": "green",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": true,
+    "card": {
+      "title": "Questions to consider",
+      "text": "What is the person feeling?\nWhat actions or words indicate this feeling?\nCan you identify their feelings through words?\nWhat words would you use to describe their feelings?",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "What is the person feeling?\nWhat actions or words indicate this feeling?\nCan you identify their feelings through words?\nWhat words would you use to describe their feelings?",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 5,
+    "color": "green",
+    "isHidden": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Phase 2. Define.",
+      "text": "What does it mean to define?",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "The second step, after developing empathy for the customers, is to craft a meaningful and actionable problem statement.  This is the define phase. This should be a guiding statement that focuses on insights and needs of a particular customer, or composite character. Insights don’t often just jump in your lap; rather they emerge from a process of synthesizing information to discover connections and patterns. In a word, the define phase is all about sensemaking.",
+      "prompt": ""
+    },
+    "options": [
+      {
+        "sceneId": 6,
+        "utterances": [
+          "learn about defining"
+        ]
+      },
+      {
+        "sceneId": 11,
+        "utterances": [
+          "ask questions"
+        ]
+      },
+      {
+        "sceneId": 1,
+        "utterances": [
+          "Next step"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "color": "green",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "More on define",
+      "text": "sensemaking",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "Consider what stood out to you when talking and observing people. What patterns emerge when you look at the set? If you noticed something interesting ask yourself (and your team) why that might be. In asking why someone had a certain behavior or feeling you are making connections from that person to the larger context. Develop an understanding of the type\nof person you are designing for – your USER. Synthesize and select a limited set of NEEDS that you think are important to fulfll; you may in fact express a just one single salient need\nto address. Work to express INSIGHTS you developed through the synthesis of information your have gathered through empathy and research work. Then articulate a point-of-view by combining these three elements – user, need, and insight – as an actionable problem statement that will drive the rest of your design work.",
+      "prompt": "If you would like to play again say, \"Start again.\" Otherwise you can say \"Exit skill.\""
+    },
+    "options": []
+  },
+  {
+    "id": 7,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": true,
+    "card": {
+      "title": "Questions to consider",
+      "text": "",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "Can you step beyond obvious solutions?\nCan you harness the collective perspectives and strengths of your teams?\nDid you try to uncover unexpected areas of exploration?",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 8,
+    "color": "green",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": true,
+    "card": {
+      "title": "More on empathy",
+      "text": "Empathy ...",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "How to empathize?  You can observe, engage, or watch and listen.\n\n1. Observe. View people and their behavior in the context of their lives. As much as possible\ndo observations in relevant contexts in addition to interviews. Some of the most powerful realizations come from noticing a disconnect between what someone says and what he does. Others come from a work-around someone has created which may be very surprising to you as the designer, but she may not even think to mention in conversation.\n2. Engage. Sometimes we call this technique ‘interviewing’ but it should really feel more like a conversation. Prepare some questions you’d like to ask, but expect to let the conversation deviate from them. Keep the conversation only loosely bounded. Elicit stories from the people you talk to, and always ask “why?” to uncover deeper meaning. Engagement can come through both short intercept encounters and longer scheduled conversations.\n3. Watch and Listen. Certainly you can, and should, combine observation and engagement.\nAsk someone to show you how they complete a task. Have them physically go through the steps, and talk you through why they are doing what they do. Ask them to vocalize what’s going through their mind as they perform a task or interact with an object. Have a conversation in the context of someone’s home or workplace – so many stories are embodied in artifacts. Use the environment to prompt deeper questions.\n\nTo summarize, empathy allows us to understand and share the same feelings that others feel. Through empathy, we are able to put ourselves in other people's shoes and connect with how they might be feeling about their problem, circumstance, or situation.",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 9,
+    "color": "yellow",
+    "isHidden": true,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Phase 3. Ideate.",
+      "text": "Brainstorming.",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "In this ideate phase you concentrate on idea generation. Mentally it represents a process of “going wide” in terms of concepts and outcomes. Ideation provides both the fuel and also the source material for building prototypes and getting innovative solutions into the hands of your users.",
+      "prompt": ""
+    },
+    "options": [
+      {
+        "sceneId": 2,
+        "utterances": [
+          "More about ideation"
+        ]
+      },
+      {
+        "sceneId": 7,
+        "utterances": [
+          "ask questions"
+        ]
+      },
+      {
+        "sceneId": 16,
+        "utterances": [
+          "Next step"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "color": "yellow",
+    "isHidden": true,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Phase 4. Prototype.",
+      "text": "Small scale or quick models.",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "The Prototype mode is the iterative generation of artifacts intended to answer questions that get you closer to your  final solution. In the early stages of a project that question may be broad – such as “do my users enjoy cooking in a competitive manner?” In these early stages, you should create low-resolution prototypes that are quick and cheap to make (think minutes and cents) but can elicit useful feedback from users and colleagues. In later stages both your prototype and question may get a little more refined. For example, you may create a later stage prototype for the cooking project that aims to find out: “do my users enjoy cooking with voice commands or visual commands”.",
+      "prompt": ""
+    },
+    "options": [
+      {
+        "sceneId": 19,
+        "utterances": [
+          "More about prototyping"
+        ]
+      },
+      {
+        "sceneId": 21,
+        "utterances": [
+          "ask questions"
+        ]
+      },
+      {
+        "sceneId": 20,
+        "utterances": [
+          "Next step"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": true,
+    "card": {
+      "title": "Questions to consider",
+      "text": "Can you describe the problem with language that is identifiable, positive, meaningful, and actionable?\nWhat point of view are you shaping as you define the problem?\nWill your definition of the problem inspire your team to find a solution?",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "Can you describe the problem with language that is identifiable, positive, meaningful, and actionable?\nWhat point of view are you shaping as you define the problem?\nWill your definition of the problem inspire your team to find a solution?",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 12,
+    "color": "red",
+    "isHidden": true,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Empathy quiz",
+      "text": "Empathy quiz",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "Let's test your understanding of the empathy step.  Answer this question.\n\nPlaying video games is sometimes believed to lead to addiction and violent behavior. Should children be forbidden to play games?\n\nHere are your answers.\nAnswer 1:\nYes. Games are evil and no good can come from playing.\n\nAnswer 2:\nMaybe.  It is better to be safe than sorry.  My generation didn't play games and our children won't be hurt without them.\n\nAnswer 3:\nNo. Games are good and should not be forbidden.\n\nAnswer 4:\nWe do not have enough information at this point to make a call to forbid playing games.\nDo you choose A, B, or C ?",
+      "prompt": ""
+    },
+    "options": [
+      {
+        "sceneId": 13,
+        "utterances": [
+          "Yes 8"
+        ]
+      },
+      {
+        "sceneId": 14,
+        "utterances": [
+          "No 8"
+        ]
+      },
+      {
+        "sceneId": 15,
+        "utterances": [
+          "Maybe 8"
+        ]
+      },
+      {
+        "sceneId": 18,
+        "utterances": [
+          "Not enough information 8"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "color": "green",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Forbid playing games.",
+      "text": "Yes",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "Does this answer demonstrate mastery level of developing empathy?  Forbidding games for the right reason may be ok.  It should not be done as a shortcut or a display of authority. How will you ensure that games are not being played outside of your home?",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 14,
+    "color": "green",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "No, games are good.",
+      "text": "No",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "This selection indicates an extreme view in calling games good.  It indicates a personal opinion, which drives the decision, instead of a customer perspective.",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 15,
+    "color": "green",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Maybe, let's do it.",
+      "text": "Maybe",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "This response shows poor display of empathy as the focus is on \"my generation\".  Can you really represent the entire generation or just friends and neighbors of a similar age?",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 16,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": true,
+    "card": {
+      "title": "Step 4. Prototype",
+      "text": "",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "Once you have one or more possible ideas for solutions you can make and create a first draft of a working solution.  By now empathy helps you to see that they're in a step of a longer process. A prototype can be changed, altered, re-evaluated, and recreated many times based on the needs of the customers. This process also helps to recognize that failing is part of learning, and that it's OK to fail. Failure, however, needs to be analyzed so that we learn and grow from our mistakes.  Say \"start area\" and then \"step 4\".",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 17,
+    "color": "yellow",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Step 2. Define.",
+      "text": "",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "The next step, after learning about empathy and after embedding yourself with the perspective of your customers, you should try to define the problem.  Likely, there are multiple problems involved, but analyzing, or taking the situation apart, to understand the key problem you have the power to affect will require deep reflection.  For example, once you played video games with your kids, you might have noticed that they use them to escape from emotional problems caused by divorce or loneliness. Perhaps the amount of time they spend playing is part of the problem you want to address.  Perhaps your definition will begin with what your kids are not doing that you would like to see accomplished.  Learn how to define a problem by saying Step 2 in the start area.  To proceed say \"start area\".",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 18,
+    "color": "green",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Not enough information.",
+      "text": "Not enough information",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "This question was testing the patience you may need to master as part of building empathy.  There is recent research, in contrast to more traditional scientific views, that shows that playing games helps to develop mind, even playing violent games.  Also, while playing video games is very engaging and can be used to the extreme, strong interest in toys like dinosaurs or trains tends to happen in children. What we are missing is a view of the situation from the perspective of players.",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 19,
+    "color": "green",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": true,
+    "card": {
+      "title": "More on prototypes",
+      "text": "",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "A prototype can be anything that a user can interact with – be it a wall of post-it notes, a gadget you put together, a role-playing activity, or even a storyboard. Ideally you bias toward something a user can experience. Walking someone through a scenario with a storyboard is good, but having them role-play through a physical environment that you have created will likely bring out more emotions and responses from that person.",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 20,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": true,
+    "card": {
+      "title": "Step 5. Feedback",
+      "text": "",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "The next phase is feedback.  Some Design Thinking models call this stage testing, however prototyping requires testing in the building process and collecting feedback in an intentional way does not have to be based on the prototype but your experience with it.  To learn more say \"start area\" and then \"step 5\".",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 21,
+    "color": "yellow",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": true,
+    "card": {
+      "title": "Questions to consider",
+      "text": "",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "What do you hope to test with the user? What sorts of behavior do you expect?\n\nWhy did we fail?\nWhat worked?\nWhat didn't work?\nHow can we improve to help the user next time?\nIs this solution feasible? Is it manageable?\nAre these changes designed with the user in mind?",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 22,
+    "color": "default",
+    "isHidden": true,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Step 5: Feedback",
+      "text": "Listen to opinions",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You've collected feedback at each stage of this process already.  However, this time we are looking for feedback about your progress.  This will be an iterative process, which means you may need to go back to step 1 and empathize as people interact with your prototype.  Surveys may be a weak method to receive meaningful survey.  While inexpensive, they can cause feedback fatigue in your respondents and they quantify ideas too quickly.  Instead, you could observe, ask open-ended questions, and focus on neutral users who neither hate or love your prototype.",
+      "prompt": ""
+    },
+    "options": [
+      {
+        "sceneId": 24,
+        "utterances": [
+          "More about feedback"
+        ]
+      },
+      {
+        "sceneId": 25,
+        "utterances": [
+          "Ask questions"
+        ]
+      },
+      {
+        "sceneId": 26,
+        "utterances": [
+          "Next step"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "color": "default",
+    "isHidden": true,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Phase 6: Reflect",
+      "text": "",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You enter a room. What would you like to do?",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 24,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": true,
+    "card": {
+      "title": "Room",
+      "text": "You enter a room.",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You enter a room. What would you like to do?",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 25,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": true,
+    "card": {
+      "title": "Room",
+      "text": "You enter a room.",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You enter a room. What would you like to do?",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 26,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": true,
+    "card": {
+      "title": "Step 6. Reflection.",
+      "text": "",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You enter a room. What would you like to do?",
+      "prompt": ""
+    },
+    "options": []
+  }
+]
